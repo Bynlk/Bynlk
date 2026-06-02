@@ -1,71 +1,16 @@
 <div align="center">
 
-<!-- 头部区域 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:0d1117&height=220&section=header&text=Bynlk&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=AI%20Student%20%26%20Vibe%20Coder&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+# Hey, I'm Bynlk 👋
 
-<!-- 打字特效 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%7C+AI+Agent+Builder;Electron+%7C+Tauri+%7C+React+%7C+Python;Building+cool+stuff+with+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
+### `AI-Native Developer` · `Vibe Coder` · `Full-Stack Engineer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-powered+tools+that+actually+work;From+zero+to+deployed+in+one+afternoon" alt="Typing SVG" />
 
 <br/>
 
-<!-- 徽章 -->
-<a href="https://bynlk.cc"><img src="https://img.shields.io/badge/🌐_Website-bynlk.cc-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:czh666nb@gmail.com"><img src="https://img.shields.io/badge/📧_Email-czh666nb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Bynlk&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/>
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```typescript
-const bynlk = {
-    name: "Bynlk",
-    school: "东莞城市学院 · 人工智能专业",
-    location: "广东东莞 🇨🇳",
-    identity: "Vibe Coder · AI-Native Developer",
-    philosophy: "用 AI 构建一切，从想法到产品只需一天",
-    currentFocus: [
-        "AI Agent 全链路开发",
-        "跨平台桌面应用 (Electron / Tauri)",
-        "LLM 应用集成与工作流自动化"
-    ],
-    funFact: "2年写了27个项目，多数从0到1完整交付 🚀"
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-#### Backend & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-#### Desktop & Tools
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-Bynlk-181717?style=flat-square&logo=github)](https://github.com/Bynlk)
+[![Website](https://img.shields.io/badge/-bynlk.cc-FFA500?style=flat-square&logo=google-chrome&logoColor=white)](https://bynlk.cc)
+[![Email](https://img.shields.io/badge/-czh666nb@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:czh666nb@gmail.com)
 
 </div>
 
@@ -77,91 +22,122 @@ const bynlk = {
 <tr>
 <td width="50%">
 
-### 🤖 CAM — AI Agent 监控平台
-> 实时监控 AI 代理 API 调用的全景指挥中心
+### 🤖 [CAM](https://github.com/Bynlk/CAM) — Claude Agent Monitor
+**三平台 AI 代理监控系统**
 
-- ⏱️ 时间线 + 🔗 依赖图 + 📊 数据洞察 三视图
-- 4 种布局模式（全屏/分屏/标签/画廊）
-- 多 Agent 对比分析 & Session 追踪
-- 44 个文件 · 5837 行代码 · 完整 PWA
+Unified state machine across Desktop (Tauri/Rust), Android (Kotlin), and Server (Node.js). Real-time SSE push, process detection, embedded HTTP server.
 
-`React` `TypeScript` `IndexedDB` `TailwindCSS` `PWA`
+`Rust` `TypeScript` `Kotlin` `Node.js` `Tauri`
 
-</td>
-<td width="50%">
-
-### 🐾 Clawd on Desk — AI 桌面宠物
-> 融合情绪系统 & 物理模拟的桌面伴侣
-
-- 🎭 6种情绪状态 × 3种互动模式
-- 🎨 6套主题皮肤 · 毛玻璃UI
-- ⚡ 20fps 物理模拟 · 30+ 动画
-- 🖥️ Electron 跨平台 · ~15MB 轻量
-
-`Electron` `React` `Vite` `Framer Motion`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📝 ByResume — AI 简历编辑器
-> 集成 AI 润色 & 超级简历分析的求职助手
-
-- 📊 7维度简历评分 · 10+ 模板库
-- 🤖 AI 对话式编辑 & 逐段优化
-- 📤 多格式导出 · 实时预览
-- 🎯 岗位关键词匹配分析
-
-`Electron` `React 19` `Node.js` `Vite`
+![Stars](https://img.shields.io/github/stars/Bynlk/CAM?style=flat-square)
+![License](https://img.shields.io/github/license/Bynlk/CAM?style=flat-square)
 
 </td>
 <td width="50%">
 
-### 📕 cheat-on-content — 小红书创作技能包
-> 从文案到配图到发布的全自动内容工厂
+### 🐾 [Clawd on Desk](https://github.com/Bynlk/clawd-on-desk) — AI Coding Pet
+**桌面宠物，实时响应 14+ 种 AI 编程代理**
 
-- ✍️ AI 文案生成（7种语气风格）
-- 🎨 AI 配图 & 多语言视频配音
-- 📋 一键复制 & 防检测降重
-- 📊 15个内容策略模块
+SVG animation engine, permission bubble system, remote SSH + Telegram approval. 50+ contributors.
 
-`JavaScript` `Chrome Extension` `LLM API`
+`Electron` `JavaScript` `Kotlin` `WebSocket` `SVG`
+
+![Stars](https://img.shields.io/github/stars/Bynlk/clawd-on-desk?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/Bynlk/clawd-on-desk?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💼 Jobs — 职位聚合平台
-> 多平台自动抓取 + AI 匹配的求职工具
+### 📄 [ByResume](https://github.com/Bynlk/ByResume) — AI Resume Editor
+**AI 驱动的智能简历编辑器**
 
-- 🕷️ 3平台自动爬取（智联/Boss/拉勾）
-- 🤖 OpenAI 智能职位匹配
-- 📊 匹配度评分 & 数据可视化
-- 🔄 增量更新 · 去重 · 定时任务
+Drag-and-drop sorting, TipTap rich text, multi-AI provider support, Puppeteer PDF export. Deployed at bynlk.cc/byresume.
 
-`Python` `Flask` `Playwright` `SQLite` `OpenAI`
+`Next.js` `TypeScript` `Prisma` `Tailwind CSS` `Puppeteer`
+
+![Stars](https://img.shields.io/github/stars/Bynlk/ByResume?style=flat-square)
+![License](https://img.shields.io/github/license/Bynlk/ByResume?style=flat-square)
 
 </td>
 <td width="50%">
 
-### 🎨 Gemini Image — AI 图像生成
-> 多模型协作的创意图像工作流
+### 🔑 [Token Viewer](https://github.com/Bynlk/Token-Viewer) — VS Code Extension
+**小米 MiMo Credits 全方位管理平台**
 
-- 🧠 多模型支持（Gemini / OpenAI / Claude）
-- 📐 多宽高比 · 风格参考图
-- 💬 Prompt 润色 · 连续对话
-- 📥 历史画廊 · 一键下载
+Real-time monitoring, trend analysis, budget management, multi-account, team collaboration. 192 tests, 28 releases.
 
-`Python` `Streamlit` `Google Gemini API`
+`TypeScript` `VS Code API` `Node.js`
+
+![Stars](https://img.shields.io/github/stars/Bynlk/Token-Viewer?style=flat-square)
+![Version](https://img.shields.io/visual-studio-marketplace/v/Bynlk.token-viewer?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 [JobHunter](https://github.com/Bynlk/jobs) — Job Aggregator
+**四大数据源实习/校招岗位聚合**
+
+Dynamic font anti-crawl (Playwright + fonttools), 13 verified API sources, real-time SQLite ingestion.
+
+`Python` `Flask` `Playwright` `Vue 3` `SQLite`
+
+![Stars](https://img.shields.io/github/stars/Bynlk/jobs?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 📝 [Agent Your Homework](https://github.com/Bynlk/Agent-Your-Homework) — Multi-Agent Automation
+**5 代理流水线端到端生成大学实验报告**
+
+Async pipeline architecture, WebSocket real-time progress, CLI auto-detection, error retry mechanism.
+
+`Node.js` `React` `WebSocket` `Claude Code CLI`
+
+![Stars](https://img.shields.io/github/stars/Bynlk/Agent-Your-Homework?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-<div align="right">
-<a href="#-about-me"><img src="https://img.shields.io/badge/⬆_Back_to_Top-6366f1?style=for-the-badge" /></a>
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Frontend
+![React](https://img.shields.io/badge/React-18/19-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5/6-3178C6?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3/4-06B6D4?style=flat-square&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-5/8-646CFF?style=flat-square&logo=vite)
+
+#### Backend
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=node.js)
+![Java](https://img.shields.io/badge/Java-Spring_Boot-ED8B00?style=flat-square&logo=spring-boot)
+![Rust](https://img.shields.io/badge/Rust-Tauri-000000?style=flat-square&logo=rust)
+
+#### Desktop & Mobile
+![Electron](https://img.shields.io/badge/Electron-3-47848F?style=flat-square&logo=electron)
+![Tauri](https://img.shields.io/badge/Tauri_v2-24C1D0?style=flat-square&logo=tauri)
+![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack_Compose-7F52FF?style=flat-square&logo=kotlin)
+
+#### AI/ML
+![Claude](https://img.shields.io/badge/Claude-Code-D97706?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-SDK-412991?style=flat-square&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-API-4285F4?style=flat-square&logo=google)
+
+#### Database & DevOps
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
+
 </div>
 
 ---
@@ -170,57 +146,35 @@ const bynlk = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bynlk&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bynlk&theme=radical&background=0d1117&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bynlk&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bynlk&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bynlk&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 💡 About Me
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bynlk&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
-
-## 🗺️ Project Landscape
-
-```
-📁 27 Projects · 12+ Tech Stacks · 2 Years of Building
-
-┌─────────────────────────────────────────────────────────┐
-│  🤖 AI Agent & LLM         │  🖥️ Desktop Apps          │
-│  ─────────────────          │  ──────────────            │
-│  CAM · Clawd · ByResume     │  Clawd on Desk (Electron)  │
-│  cheat-on-content · Jobs    │  ByResume (Electron)       │
-│  edge-ai-copilot            │  BynlkTodo (Tauri/egui)    │
-│                             │                            │
-│  🌐 Web Apps                │  🔧 Tools & Extensions     │
-│  ──────────────             │  ────────────────────      │
-│  jobs · resume-editor       │  edge-ai-copilot (VSCode)  │
-│  Vue Resume · LLM Chat      │  V2EX Plugin (Chrome)      │
-│  管理系统 × 2               │  Gemini Image · Translator │
-└─────────────────────────────────────────────────────────┘
+```typescript
+const bynlk = {
+  identity:  "Vibe Coder · AI-Native Developer",
+  education: "东莞城市学院 · 计算机科学与技术 · 2023级",
+  location:  "广东东莞 → 广东揭阳",
+  hardware:  "R7 7840H + RTX 4060 Laptop",
+  stack:     ["React", "TypeScript", "Python", "Rust", "Node.js", "Kotlin"],
+  tools:     ["Claude Code", "Cursor", "Playwright", "Docker"],
+  projects:  "22+ active projects across 12+ tech stacks",
+  motto:     "From zero to deployed in one afternoon",
+  fun_fact:  "My desktop pet watches me code and judges my commit messages 🐾"
+};
 ```
 
 ---
 
 <div align="center">
 
-### 💬 Philosophy
+**💬 "The best way to predict the future is to build it."**
 
-> *"我不是在写代码，我是在和 AI 一起构建未来。"*
-
-<br/>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:0d1117&height=100&section=footer)
+![Visitors](https://komarev.com/ghpvc/?username=Bynlk&color=blue&style=flat-square)
 
 </div>
