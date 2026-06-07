@@ -22,19 +22,6 @@
 <tr>
 <td width="50%">
 
-### 🤖 [CAM](https://github.com/Bynlk/CAM) — Claude Agent Monitor
-**三平台 AI 代理监控系统**
-
-Unified state machine across Desktop (Tauri/Rust), Android (Kotlin), and Server (Node.js). Real-time SSE push, process detection, embedded HTTP server.
-
-`Rust` `TypeScript` `Kotlin` `Node.js` `Tauri`
-
-![Stars](https://img.shields.io/github/stars/Bynlk/CAM?style=flat-square)
-![License](https://img.shields.io/github/license/Bynlk/CAM?style=flat-square)
-
-</td>
-<td width="50%">
-
 ### 🐾 [Clawd on Desk](https://github.com/Bynlk/clawd-on-desk) — AI Coding Pet
 **桌面宠物，实时响应 14+ 种 AI 编程代理**
 
@@ -44,21 +31,6 @@ SVG animation engine, permission bubble system, remote SSH + Telegram approval. 
 
 ![Stars](https://img.shields.io/github/stars/Bynlk/clawd-on-desk?style=flat-square)
 ![Contributors](https://img.shields.io/github/contributors/Bynlk/clawd-on-desk?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📄 [ByResume](https://github.com/Bynlk/ByResume) — AI Resume Editor
-**AI 驱动的智能简历编辑器**
-
-Drag-and-drop sorting, TipTap rich text, multi-AI provider support, Puppeteer PDF export. Deployed at bynlk.cc/byresume.
-
-`Next.js` `TypeScript` `Prisma` `Tailwind CSS` `Puppeteer`
-
-![Stars](https://img.shields.io/github/stars/Bynlk/ByResume?style=flat-square)
-![License](https://img.shields.io/github/license/Bynlk/ByResume?style=flat-square)
 
 </td>
 <td width="50%">
@@ -72,32 +44,6 @@ Real-time monitoring, trend analysis, budget management, multi-account, team col
 
 ![Stars](https://img.shields.io/github/stars/Bynlk/Token-Viewer?style=flat-square)
 ![Version](https://img.shields.io/visual-studio-marketplace/v/Bynlk.token-viewer?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔍 [JobHunter](https://github.com/Bynlk/jobs) — Job Aggregator
-**四大数据源实习/校招岗位聚合**
-
-Dynamic font anti-crawl (Playwright + fonttools), 13 verified API sources, real-time SQLite ingestion.
-
-`Python` `Flask` `Playwright` `Vue 3` `SQLite`
-
-![Stars](https://img.shields.io/github/stars/Bynlk/jobs?style=flat-square)
-
-</td>
-<td width="50%">
-
-### 📝 [Agent Your Homework](https://github.com/Bynlk/Agent-Your-Homework) — Multi-Agent Automation
-**5 代理流水线端到端生成大学实验报告**
-
-Async pipeline architecture, WebSocket real-time progress, CLI auto-detection, error retry mechanism.
-
-`Node.js` `React` `WebSocket` `Claude Code CLI`
-
-![Stars](https://img.shields.io/github/stars/Bynlk/Agent-Your-Homework?style=flat-square)
 
 </td>
 </tr>
