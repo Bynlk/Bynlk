@@ -98,13 +98,6 @@ Real-time monitoring, trend analysis, budget management, multi-account, team col
 
 ---
 
-## ⏱️ WakaTime
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 💬 Random Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
