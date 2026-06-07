@@ -98,6 +98,27 @@ Real-time monitoring, trend analysis, budget management, multi-account, team col
 
 ---
 
+## ⏱️ WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 💬 Random Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
+## 🎮 Mini Game
+
+**Play Snake 🐍** — Use arrow keys to control
+
+[![Snake Game](https://raw.githubusercontent.com/Bynlk/bynlk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
+
+---
+
 <div align="center">
 
 **💬 "The best way to predict the future is to build it."**
