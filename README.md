@@ -153,24 +153,6 @@ Async pipeline architecture, WebSocket real-time progress, CLI auto-detection, e
 
 ---
 
-## 💡 About Me
-
-```typescript
-const bynlk = {
-  identity:  "Vibe Coder · AI-Native Developer",
-  education: "东莞城市学院 · 计算机科学与技术 · 2023级",
-  location:  "广东东莞 → 广东揭阳",
-  hardware:  "R7 7840H + RTX 4060 Laptop",
-  stack:     ["React", "TypeScript", "Python", "Rust", "Node.js", "Kotlin"],
-  tools:     ["Claude Code", "Cursor", "Playwright", "Docker"],
-  projects:  "22+ active projects across 12+ tech stacks",
-  motto:     "From zero to deployed in one afternoon",
-  fun_fact:  "My desktop pet watches me code and judges my commit messages 🐾"
-};
-```
-
----
-
 <div align="center">
 
 **💬 "The best way to predict the future is to build it."**
