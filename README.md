@@ -92,8 +92,7 @@ Real-time monitoring, trend analysis, budget management, multi-account, team col
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bynlk&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bynlk&layout=compact&theme=radical&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bynlk&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
