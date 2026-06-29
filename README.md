@@ -88,18 +88,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bynlk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bynlk&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bynlk&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 ## 📈 Recent Activity
 
